@@ -31,6 +31,7 @@ This procedure:
 ✅ No need to specify each table manually.
 ✅ Supports SQL Authentication to the remote server.
 ✅ Handles schema differences automatically.
+![SPFlow](https://github.com/user-attachments/assets/398834f9-ab37-4278-bc58-0cb09aa0570d)
 
 ---
 
